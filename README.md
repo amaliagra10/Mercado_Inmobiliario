@@ -1,4 +1,5 @@
 🏘️ Análisis del Mercado Inmobiliario con Python.
+
 Este proyecto fue realizado en un Jupyter Notebook, utilizando el dataset Datos_Properati.xlsx, que contiene 459.182 registros y 20 columnas sobre propiedades en venta y alquiler en diferentes localidades de América Latina.
 
 📦 Contenido del dataset
