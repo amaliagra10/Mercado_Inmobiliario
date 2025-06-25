@@ -28,7 +28,9 @@ Se llevó a cabo un análisis exploratorio profundo que incluyó:
 Para preparar el dataset para futuros modelos de predicción, aplicamos:
 
 a. One-hot encoding para transformar variables categóricas
+
 b. Reducción de dimensionalidad, con el fin de obtener un dataset más compacto y eficiente
+
 c. Clusterización para segmentar mejor el mercado inmobiliario y filtrar datos de forma más inteligente
 
 El objetivo final es contar con una base de datos limpia y estructurada que permita aplicar modelos de aprendizaje automático (machine learning) para predecir el precio de una propiedad según sus características.
